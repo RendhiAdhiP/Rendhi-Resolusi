@@ -3,3 +3,10 @@ Jadwal
 1. Senin tangan,dada
 2. rabu perut
 3. sabut kaki
+
+
+jadwal ke 2
+
+1. minggu punggung
+2. selasa perut
+3. kamis dada
